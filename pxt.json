@@ -5,7 +5,12 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "MakerBit-IR-Receiver": "github:1010technologies/pxt-makerbit-ir-receiver#v1.5.14"
+        "MakerBit-IR-Receiver": "github:1010technologies/pxt-makerbit-ir-receiver#v1.5.14",
+        "APDS9960": "github:diegogalv/apds9960#v0.0.1",
+        "MakerBit-Touch": "github:1010technologies/pxt-makerbit-touch#v1.2.24",
+        "SSD1306_OLED": "github:tinkertanker/pxt-oled-ssd1306#v2.0.13",
+        "ws2812b": "github:microsoft/pxt-ws2812b#v0.1.2",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.5"
     },
     "files": [
         "main.blocks",
